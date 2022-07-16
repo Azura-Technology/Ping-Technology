@@ -1,3 +1,5 @@
+![alt text](https://cdn.discordapp.com/attachments/995559142133616700/996859540056326184/Open-removebg-preview.png)
+
 # Ping Technology
 A free mixin-based injection ping service for Roblox using Library, based on Lua.
 
@@ -15,5 +17,3 @@ You are allowed to:
 You must disclose the source code of your modified work and the source code you took from this project. This means you are not allowed to use code from this project (even partially) in a closed-source (or even obfuscated) application.
 Your modified application must also be licensed under the GPL
 Do the above and share your source code with everyone; just like we do.
-
-![alt text](https://cdn.discordapp.com/attachments/995559142133616700/996859540056326184/Open-removebg-preview.png)
