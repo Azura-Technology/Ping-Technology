@@ -4,7 +4,7 @@
 local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 
--- Setting Up, Loca for Data Ping.
+-- Setting Up, v2
 local PingString = game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString()
 local Split = string.split(PingString, " ")
 local PingValue = Split[1]
